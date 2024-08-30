@@ -1,6 +1,0 @@
-flask
-firecrawl
-groq
-google-generativeai
-markdown
-python-dotenv
